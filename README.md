@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá!! Me chamo Henrique 👋👋
+
+Sou estudante de Ciência da Computação no IFSC Lages
 
 <!--
 **reckiezz/reckiezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
